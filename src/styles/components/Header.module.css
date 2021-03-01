@@ -1,0 +1,25 @@
+
+/* ******  HEADER  ****** */
+
+.header {
+    background: linear-gradient(to bottom, #111 5%, transparent 95%);
+    color: #fff;
+    height: 80px;
+  
+    /* FIXANDO MENU */
+    position: fixed;
+    right: 0px;
+    left: 0px;
+  
+  
+    /* CENTRALIZANDO ELEMENTO */
+  
+    align-items: center;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .header h1 {
+    margin: 0px;
+  }
+  
